@@ -1,0 +1,19 @@
+.create {
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+.create form{
+    width: 500px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 3px 3px 8px rgba(0,0,0, 0.5);
+}
+.create input, textarea{
+    width: 100%;
+    padding: 8px;
+}
+.create button{
+    display: inline-block;
+    margin: 15px 0;
+}

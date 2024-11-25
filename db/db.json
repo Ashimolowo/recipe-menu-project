@@ -1,0 +1,338 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Jollof Rice",
+      "ingredients": [
+        "Tomato",
+        "Pepper",
+        "Oil"
+      ],
+      "method": "You place the rice in the oven then boil it for sexy use",
+      "cookingTime": "20 minutes",
+      "id": "UcSO_lv"
+    },
+    {
+      "title": "Okra Soup",
+      "ingredients": [
+        "Perewinkle",
+        "Okra",
+        "Water",
+        "Oil"
+      ],
+      "method": "You have to add all ingredient at once",
+      "cookingTime": "30 minutes",
+      "id": "zjBCDUY"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "d4VmB1p"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "74_13f4"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "_cL9hno"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "SdUsd63"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "xgtx2pa"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "MhtLw-k"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "DmdImlY"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "a3cZPsM"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "mBjNgkA"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "OQhRfvu"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "f2xYEYu"
+    },
+    {
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "cookingTime": "45",
+      "method": "Add everything together my bro",
+      "title": "Fried Rice",
+      "id": "TMipvab"
+    },
+    {
+      "title": "Fried Rice",
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "method": "Add everything together my bro",
+      "cookingTime": "45minutes",
+      "id": "-YSe7c4"
+    },
+    {
+      "title": "Fried Rice",
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "method": "Add everything together my bro",
+      "cookingTime": "45minutes",
+      "id": "152ldFk"
+    },
+    {
+      "title": "Fried Rice",
+      "ingredients": [
+        "Pepper",
+        "rice",
+        "stew",
+        "oil",
+        "meat"
+      ],
+      "method": "Add everything together my bro",
+      "cookingTime": "45minutes",
+      "id": "yzRgI0h"
+    },
+    {
+      "title": "Stew Bean",
+      "ingredients": [
+        "water",
+        "yam",
+        "rice",
+        "pepper",
+        "tomato",
+        "salt"
+      ],
+      "method": "Keep adding everyting all all all alal al",
+      "cookingTime": "30 minutes",
+      "id": "eiSYH3O"
+    },
+    {
+      "title": "Potato stew",
+      "ingredients": [
+        "water",
+        "salt",
+        "yam",
+        "stew",
+        "oil"
+      ],
+      "method": "Keep it up keep it up",
+      "cookingTime": "20 minutes",
+      "id": "4AZyp0q"
+    },
+    {
+      "title": "test",
+      "ingredients": [
+        "ddd"
+      ],
+      "method": "wwwwwe",
+      "cookingTime": "30 minutes",
+      "id": "9DKtGDx"
+    },
+    {
+      "title": "Banga Rice",
+      "method": "add",
+      "ingredients": [
+        "Water",
+        "Salt",
+        "Magie"
+      ],
+      "cookingTime": "29Minutes",
+      "id": "SH6mDqV"
+    },
+    {
+      "title": "adlldld",
+      "ingredients": [
+        "erg",
+        "ewr"
+      ],
+      "method": "dsfghjkjas",
+      "cookingTime": "2Minutes",
+      "id": "h8pga90"
+    },
+    {
+      "title": "adlldld",
+      "ingredients": [
+        "erg",
+        "ewr"
+      ],
+      "method": "dsfghjkjas",
+      "cookingTime": "2Minutes",
+      "id": "n49BZaG"
+    },
+    {
+      "title": "Beans and Yam",
+      "ingredients": [
+        "Water",
+        "Pepper",
+        "Beans",
+        "Yam"
+      ],
+      "method": "YOu have to add everything together to achieve results",
+      "cookingTime": "75Minutes",
+      "id": "wTeuYfm"
+    }
+  ]
+}
